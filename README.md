@@ -3,6 +3,7 @@
 ## About Me
 
 🤓 I am currently a Business Intelligence Analyst for Butterball, LLC. 
+
 🏫 I am also pursuing my Masters in Data Science at the Univeristy of Arizona.
 
 <!--
